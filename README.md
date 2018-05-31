@@ -12,8 +12,8 @@ https://github.com/282Haniwa/OpenITerm2Here/releases/tag/v1.0
 https://support.apple.com/kb/PH25088?locale=ja_JP
 
 ## Terminal版
-以下のリンクからどうぞ
-OpenTerminalHere3
+以下のリンクからどうぞ  
+OpenTerminalHere3  
 https://github.com/282Haniwa/OpenTerminalHere3
 
 ---
