@@ -11,6 +11,10 @@ https://github.com/282Haniwa/OpenITerm2Here/releases/tag/v1.0
 開発元が未確認のアプリケーションであるという警告が出る場合は以下を参考にして実行できるようにしてください。
 https://support.apple.com/kb/PH25088?locale=ja_JP
 
+## Terminal版
+以下のリンクからどうぞ
+OpenTerminalHere3
+https://github.com/282Haniwa/OpenTerminalHere3
 
 ---
 This software is released under the MIT License, see LICENSE.
