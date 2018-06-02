@@ -8,6 +8,8 @@ https://github.com/282Haniwa/OpenITerm2Here/releases/tag/v1.0
 1. アプリをクリックで起動するとFinderで開いているフォルダをターミナルで開くことができる。
 1. アプリに開きたいファイルかフォルダをドラッグ&ドロップすると、ファイルならファイルのあるフォルダ、フォルダならそのフォルダをターミナルで開く。
 
+![Sample](https://github.com/282Haniwa/OpenITerm2Here/blob/master/resources/OpenITerm2Here_sample.gif)
+
 開発元が未確認のアプリケーションであるという警告が出る場合は以下を参考にして実行できるようにしてください。
 https://support.apple.com/kb/PH25088?locale=ja_JP
 
